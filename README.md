@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vince Ocampo
-- 🌱 I’m currently a Junior Software Developer at Foster Moore
+- 🌱 I’m currently a Software Configuration Developer at Foster Moore
 - 🎓 I'm a Computer Science and Statistics Graduate
 - 📫 How to reach me - Email: andrei.ocampo711@gmail.com
 
