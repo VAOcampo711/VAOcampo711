@@ -11,7 +11,7 @@
 * Experienced in **Java, Groovy, React, MongoDB** and **modern web frameworks**
 * Skilled in **automation testing** with **Cucumber, Gherkin and unit testing**
 * Love working in **Agile environments** and contributing across planning, development and releases
-* Some data analysis experience (R, SAS, Excel)
+* Some **data analysis** experience (**R, SAS, Excel**)
 
 ---
 
