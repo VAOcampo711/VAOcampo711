@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* Currently a Software Configuration Developer at **Foster Moore**
+* Currently a **Software Configuration Developer** at **Foster Moore**
 * **Computer Science & Statistics** graduate
 * Experienced in **Java, Groovy, React, MongoDB** and **modern web frameworks**
 * Skilled in **automation testing** with **Cucumber, Gherkin and unit testing**
@@ -18,18 +18,23 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
+
 Java · Groovy · Python · JavaScript · TypeScript · React · Gatsby · Tailwind · Sass · HTML · CSS
 
 **Databases**
+
 MongoDB · SQL · NoSQL · GraphQL · Firestore
 
 **Testing & Automation**
+
 Cucumber · Gherkin · Unit Testing (Python, Node.js)
 
 **Tools**
+
 Git · GitHub · GitLab · Bitbucket · Jira
 
 **Data Analysis**
+
 R · SAS · Excel
 
 ---
