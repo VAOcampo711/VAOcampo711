@@ -42,7 +42,7 @@ R · SAS · Excel
 ## 📫 Let’s Connect
 
 * 💼 **[LinkedIn](https://www.linkedin.com/in/vince-ocampo-1050a41a5/)**
-* 📧 **[andrei.ocampo711@gmail.com](mailto:andrei.ocampo711@gmail.com)**
+* 📧 **[vinceocampo711@icloud.com](mailto:vinceocampo711@icloud.com)**
 
 ---
 
